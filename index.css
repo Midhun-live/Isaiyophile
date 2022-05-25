@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    height: 100vh;
+    text-align: center;
+    /* display: flex; */
+}
+h1{
+    border: 2px solid gray;
+    display: block;
+    align-items: center;
+    justify-content: center;
+
+}
